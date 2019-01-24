@@ -1,0 +1,68 @@
+---
+title: E (my partner) and I
+categories: Discussion
+tags: ['celion', 'bunter', 'chicken', 'because']
+author: Michael Atlin
+link: https://plus.google.com/106989539226430288394/posts/cd1NBgWT3TN
+published: 2013-12-17T05:09:08.023Z
+updated: 2013-12-17T05:10:10.000Z
+imagelink: []
+thumblinks: []
+---
+
+E (my partner) and I finally played Dungeon World together.  I&#39;ve been trying to convince E to give roleplaying games a try for a while now.  My first attempt, with Burning Wheel, wasn&#39;t a terrific success.  Fate was a bit better.  Quiet Year was brillaint.  <br />But DW was best of all.<br /><br />Which is gratifying, because I&#39;ve had limited success in running AW engine games, despite my love for them. My first try at DW was pretty unsuccessful, and my The Regiment session was thoroughly mediocre.  But this time, it was just FUN. I think strictly limiting the number of players is helpful for me; I don&#39;t have the focus to hold onto multiple threads with several players.<br /><br />So, a disclaimer.  A lot of this is going to read really heteronormatively. That makes both E and me very uncomfortable, and it’s more an artifact of differing levels of experience and seriousness than anything else.  And of how much we liked Alana of Trebond when we were kids. And if RPGs like DW aren’t meant to be used for wish fulfillment and to revisit the stories we loved when we were young, well, I don’t want to do it right!<br /><br />E has little experience with RPGs and no patience at all for complex mechanics when presented out of context – it’s not the rules that are problematic, it’s caring about them before play actually starts.  So it was really great that I could just briefly outline character options for her - this is one of the few times I&#39;ve been grateful for classes; there was absolutely no analysis paralysis.  She liked the idea of an animal companion, so: Ranger. The lists of &#39;names&#39; and &#39;looks&#39; and gear were priceless, and made character creation mostly painless.  There was almost a mutiny over assigning stats, so she just assigned them randomly using a d6.  So Celion the Elvish Ranger is super charismatic.<br /><br />For the skeleton of the session, I took the beginning of the Kingmaker adventure path for Pathfinder.  Her elvish Ranger, Celion (E decided her elf was gender-neutral because ‘who cares’, and also, with elves, ‘who can tell?’) was on zir way to a fortified trading post, which ze planned to use as a base from which to scout and pacify the surrounding area.  On the road with zir trusty if surly and flighty companion, the food-obsessed, battle-scarred elf-cat Bunter (she chose the name because our cat, Bunter, started chewing on a houseplant right about then.  She decided it could talk because &#39;deal with it&#39;), they see smoke coming from around the bend in the road.  Celion convinces Bunter to scout out the campfire by suggesting whoever it is might be willing to share some fish or a nice fat bird.  Bunter returns after about ten minutes, saying that there are a few tough-looking humans and a mule, and yeah they have some chicken, but don&#39;t seem interested in sharing.<br /><br />Celion decides to investigate zirself, and successfully sneaks up on the encampment by shimmying up a tree and climbing from branch to branch until ze&#39;s overhead.  It&#39;s a pair of armed humans and a mule, roasting a chicken over a fire.  They&#39;re stopped in the middle of the day, by the road, in a fairly dangerous area, so it&#39;s likely they&#39;re up to no good.<br /><br />Celion likes the look of that chicken, and tries to scare them off by pelting them with acorns.  Ze successfully freaks them out, but one of them thinks he sees the squirrel that&#39;s throwing acorns, and draws an arrow.  Celion dodges the arrow, and makes zir way down to the forest floor.  Change of plan!  Now Celion will make rustling noises in the bushes, and try to draw them away from the camp, then circle around to snaffle the unguarded chicken. (Post game analysis revealed that Celion&#39;s obsession with food was largely due to the pizza we ordered arriving an hour late.)<br /><br />Failure!  They leave the camp alright, but call out to a third, hitherto unseen companion, who is behind Celion.  Now Celion&#39;s trapped in the middle of a triangle of belligerent humans, but they haven&#39;t quite seen zir yet.  Celion decides enough is enough, and boots it into the forest, but runs into one of the humans.  Ze tries to duck around the human, tripping him, but he knocks the elf down with the butt of his spear, and manages to avoid a return kick to the balls.  He holds Celion at spear point, and makes the elf remove zir swordbelt.  Celion follows orders, but when he tells zir to toss the sheathed sword away, ze biffs it at him instead, hitting him in the head and knocking him out cold.  Celion grabs the sword, and runs off into the forest, where (at E&#39;s insistence), ze trips over Bunter, who smells strongly of chicken, but categorically denies having devoured the roasting bird during the commotion.<br /><br />E couldn&#39;t decide whether to circle back or head on to the fort, so she rolled a die to choose.  The fates decided that Celion continues on towards the fort.  I probably should have pressed the issue by escalating, making a soft move of hearing shouting or something, but it worked out<br /><br />Celion reaches the fort, convinces Hans and Svetlana, the fort&#39;s caretakers, that ze means them no harm, and hears their tale of woe: how the area&#39;s been overrun by bandits who they need to pay off with protection money.  In fact, the bandits are coming over the very next evening to collect tribute.  <br /><br />Celion befriends the couple, and helps them clean the fort and cook.  In the evening, while standing watch, the elf sees two men on horseback, leading a pair of mules, coming down the road.<br /><br />We called it quits there, after an hour of play, which seems like the sweet spot for E - enough to advance the plot, but not so long she gets bored.  E had a lot of fun, and really got into it, making fools of the bandits with the chicken, roleplaying her relationship with Bunter the elf-cat, and actively contributing to the world.<br /><br />A couple of things that really struck me.  E likes taking stupid risks in games, but HATES using dice to determine success or failure.  This time, she didn&#39;t seem to mind the die-rolling as much.  Part of that was DW&#39;s focus on failing forward, part of it was the dead simple mechanics, and partly the earning of XP for failure.<br /><br />The other fascinating thing I noticed was that while she initially displayed no interest at all in the character sheet or move quick reference sheets when the game began (and actually interrupted me when I tried to explain how a roll worked, telling me to just tell her what to do), towards the end of the game she was reading moves off the sheets and exploring what moves she might earn.  She LOVES &#39;Smaug&#39;s Belly&#39; for the name alone.<br /><br />And the really awesome thing is that E’s a great improviser even though she doesn&#39;t believe it.  But when we were playing, I didn&#39;t need to prompt her to fill in details about the world, or add in content of her own.  In fact, when I said that one of the cool things about *world games is they actively court that kind of collective setting creation, she replied, “That’s stupid, what are you supposed to do in the other games?”<br /><br />I think, for her, we have a winner.
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/111586412879869935960_photo.jpg'> Paul Arezina</h4>
+      <p><cite>2013-12-17 10:23:34 (edited: 2013-12-17 10:23:34)</cite></p>
+        <p>Hey there, I&#39;ma happy for your actual play and I&#39;ma let you finish, but &quot;thon&quot; is the best gender-neutral third-person pronoun of all time.<br /><br />OF ALL TIME.<br /><br />Seriously though, nice to hear you can run a few good scenes in an hour. Dungeon World has a lot to recommend itself to new people, doesn&#39;t it?</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/104922545156965039264_photo.jpg'> Daniel Kellett</h4>
+      <p><cite>2013-12-17 10:48:03 (edited: 2013-12-17 10:48:03)</cite></p>
+        <p>I&#39;m not really seeing the excessive heteronormativity? <br />Good you found something that works for family </p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/100940863250029183316_photo.jpg'> John Desmarais</h4>
+      <p><cite>2013-12-17 15:20:32 (edited: 2013-12-17 15:20:32)</cite></p>
+        <p>Re:  limited success in running AW engine games<br /><br />Not too surprising.  The core AW is a cool set of mechanics, but odd.  DW makes them much more approachable by laying a familiar skin over them.</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106989539226430288394_photo.jpg'> Michael Atlin</h4>
+      <p><cite>2013-12-17 15:31:17 (edited: 2013-12-17 15:31:17)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/111586412879869935960" oid="111586412879869935960">Paul Arezina</a></span> Thon is indeed awesome!  And yeah, because we didn&#39;t really need to go over mechanics or anything, it went really, really fast.<br /><br /><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/104922545156965039264" oid="104922545156965039264">Daniel Kellett</a></span> Both E and I read over what I wrote, and were kind of disturbed =P  Experienced Male Gamer teaches Female Partner game.  Female partner doesn&#39;t like dealing with rules, and plays an elf with a talking furry critter companion, who avoids killing and befriends a couple by helping them with housework!  It SOUNDS very Disney-princessish, which is not E at all, and not how it felt while we were playing.  We only noticed it when we looked over my post-mortem notes.  But if that&#39;s not what came across to you when reading it, then maybe I did a better job of communicating what actually happened at the table than I thought.<br /><br /><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/100940863250029183316" oid="100940863250029183316">John Desmarais</a></span> The thing is, my WORST previous experience running an AW engine game was with DW too.  The familiar skin is nice, but it also brings a lot of unhelpful baggage with it.  What made this so refreshing and easy is I was playing with someone who had never played DnD, and so had no genre assumptions, other than literature and film.</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/111586412879869935960_photo.jpg'> Paul Arezina</h4>
+      <p><cite>2013-12-17 22:32:53 (edited: 2013-12-17 22:32:53)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/106989539226430288394" oid="106989539226430288394">Michael Atlin</a></span> Well, congratulations, now you&#39;ve got me wanting to write The Princess as a playbook.</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/100940863250029183316_photo.jpg'> John Desmarais</h4>
+      <p><cite>2013-12-17 23:07:26 (edited: 2013-12-17 23:07:26)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/106989539226430288394" oid="106989539226430288394">Michael Atlin</a></span>  Kind of funny.  My best DW games have been with OLD D&amp;D players.  It wonderfully channels our inner fifteen year-old selves, but in a way that encourages us to play the way we wish we played then.</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106989539226430288394_photo.jpg'> Michael Atlin</h4>
+      <p><cite>2013-12-17 23:30:08 (edited: 2013-12-17 23:30:08)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/100940863250029183316" oid="100940863250029183316">John Desmarais</a></span> Yeah, I think this is a problem specific to me, not being a particularly good GM, and not having played very much DnD, rather than a general statement about what works or doesn&#39;t work in DW.<br /><br /><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/111586412879869935960" oid="111586412879869935960">Paul Arezina</a></span> ... Why has this not been done yet?  My mind is now overwhelmed with ideas!!!!</p>
+</div>
+        
+
+<div id='comment z120vrajbwectzyyo04cd1rwmle3cnmy1ok0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106989539226430288394_photo.jpg'> Michael Atlin</h4>
+      <p><cite>2013-12-17 23:46:08 (edited: 2013-12-17 23:46:08)</cite></p>
+        <p>Or maybe it&#39;s a compendium class?  &quot;When you learn you are heir to a kingdom, immediately take the move &quot;Beloved by the People&#39;&quot;  While an entire class might be fun, I am even more entertained by the Barbarian suddenly getting Disney Princess moves.</p>
+</div>
+        

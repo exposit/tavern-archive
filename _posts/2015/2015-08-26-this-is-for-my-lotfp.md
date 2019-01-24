@@ -1,0 +1,13 @@
+---
+title: This is for my LotFP
+categories: Compendium Classes
+tags: ['sleep', 'sleep', 'deepest', 'spell']
+author: Sean Fager
+link: https://plus.google.com/109957662124279661127/posts/VNrne9zfTWE
+published: 2015-08-26T14:32:43.798Z
+updated: 2015-08-26T14:34:30.000Z
+imagelink: []
+thumblinks: []
+---
+
+This is for my LotFP game, but it might carry over, depending on your philosophy on how justified a GM is in lying to players when fictionally appropriate.<br /><br />PLAYER FACING INFORMATION :<br /><br />Deepest Sleep (Wizard Spell, level 5)<br />Deepest Sleep causes one target of the caster&#39;s choosing within eyesight to drop into a coma-like state.  They will remain unconscious until at least the next dawn.  They will not awaken, even if exposed to loud noises, grievous harm, or smelling salts.<br /><br />GM FACING INFORMATION:<br /><br />Deepest Sleep (Wizard Spell, Level 5)<br />Deepest Sleep puts a single target of the caster&#39;s choice within eyesight into a coma-like state, and opens their essence to the Realm of the Waiting Beyond the Veil.  The core of who they are is ripped out to be feasted on by the Wailers Beyond the Veil.  Sometime, after the next dawning of the sun, a Wailer will infiltrate the vacant body, gaining all of it&#39;s memories and abilities, as per a changeling.<br />Only creatures native to the plane where it is being used may cast the Deepest Sleep spell.<br /><br />Compendium Class<br />When you&#39;ve found a way beyond the Veil to inhabit the realm of man and beast :<br />Choose a new alignment, replacing the old one on the character sheet.<br /><br />EVIL : Ensure that Deepest Sleep is cast on more victims, opening the way for your brothers.<br />CHAOTIC : Betray the trust of those who associated with your new vehicle.<br /><br />The following moves become available to you as Class Moves when you level :<br /><br />Just a Vehicle - Gain the Bloody Aegis move from the Paladin playbook.<br /><br />Skimming - With concentration you can read the surface thoughts of anyone nearby.  You cannot guide their thoughts or see anything other than what is going through their minds at the time.<br /><br />Untethered Vision - As a stranger to this plane, you can see things camouflaged against the natives.  Illusionary magics have no effect on you, and you can immediately identify  other Outsiders and where they came from.<br /><br /><br />Mini-Fronts :<br />Anyone the players cast this on (and don&#39;t murder in their sleep, naturally) begin abandoning obligations and showing subtle signs of madness.  Particularly cruelty and sadism.

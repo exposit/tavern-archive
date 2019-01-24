@@ -1,0 +1,54 @@
+---
+title: Looking for some inspiration
+categories: Fronts
+tags: ['vault', 'party', 'ancient', 'looking']
+author: Gerke Bouma
+link: https://plus.google.com/106559411917886711211/posts/JartqZShgKv
+published: 2017-10-07T14:33:45.970Z
+updated: 2017-10-07T14:33:45.970Z
+imagelink: []
+thumblinks: []
+---
+
+Looking for some inspiration!<br /><br />My party has tasked itself with getting into an ancient vault in the catacombs beneath a palace. Anyone going in to the vault for as long as far back as anyone can remember, either never came out or came back out talking complete nonsense/utterly insane.<br /><br />The vault stores an ancient artifact that will potentially be able to bring back an ancient god to life.<br /><br />Complicating factor: the sister of one of the PCs has already entered the vault ahead of the party as part of a deal that saved the related PC&#39;s life. Basically the party is mainly going in to make sure she survives, but also to help her obtain the artifact as that was part of the deal. Bad Things will happen (to the sister) if they don&#39;t.<br /><br />The setting is a bit of a mix between steampunk &amp; lovecraftian horror. So basically there&#39;s cults, sacrifices, gods, mysteries, steampunk-monsters (think mechanical spiders etc), machines with a lot of cogs and tubes that do stuff they have no business of being able to do....<br /><br />I imagine the vault being a mini-dungeon. Say 3-4 &#39;rooms&#39;, each with some problem the party faces. I&#39;m looking for any input for moves, encounters, monsters or traps that could be found in the vault that broadly fit (part of) the setting as described above.<br /><br />Any thoughts?
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/118088719859349999400_photo.jpg'> Mark Tygart</h4>
+      <p><cite>2017-10-07 23:29:53 (edited: 2017-10-07 23:36:27)</cite></p>
+        <p>Maybe the vault guardian should manifest each PC&#39;s greatest fear, but the &quot;fear demon&quot; is actually only be the size of a chess piece...in other words steal from the famous Buffy Halloween episode!<br /><br />See: <a href="http://buffy.wikia.com/wiki/Gachnar" class="ot-anchor">http://buffy.wikia.com/wiki/Gachnar</a><br /><i><a href="https://plus.google.com/photos/118088719859349999400/albums/6474315281407873969/6474315283144445074" data-embed="CNgCCNMCCLUDCNICCNACCM8CCAASY2h0dHBzOi8vcGx1cy5nb29nbGUuY29tL3Bob3Rvcy8xMTgwODg3MTk4NTkzNDk5OTk0MDAvYWxidW1zLzY0NzQzMTUyODE0MDc4NzM5NjkvNjQ3NDMxNTI4MzE0NDQ0NTA3NOq8i5sB-wQKY2h0dHBzOi8vcGx1cy5nb29nbGUuY29tL3Bob3Rvcy8xMTgwODg3MTk4NTkzNDk5OTk0MDAvYWxidW1zLzY0NzQzMTUyODE0MDc4NzM5NjkvNjQ3NDMxNTI4MzE0NDQ0NTA3NBJsaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzM0TWVZd1A4REZqVWNiQThXb1FPUmZTNEpXWFdrNS1pdWJnbXg3cHFwWDJmTTVTV2F6VU4zM1ZVeG5sSWEtNTZlWEhxbmFBVEl3GiJ0dW1ibHJfbXFxc25ocjduejFzMTNnb3BvMV81MDAuZ2lmIgCaAQM1MDCiAQMyMTDaARUxMTgwODg3MTk4NTkzNDk5OTk0MDCyAhM2NDc0MzE1MjgxNDA3ODczOTY5ugITNjQ3NDMxNTI4MzE0NDQ0NTA3NMgCBMoL_AEI0wII0gII0AIIzwIIABJsaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzM0TWVZd1A4REZqVWNiQThXb1FPUmZTNEpXWFdrNS1pdWJnbXg3cHFwWDJmTTVTV2F6VU4zM1ZVeG5sSWEtNTZlWEhxbmFBVEl3ytTMmQF6CmxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vMzRNZVl3UDhERmpVY2JBOFdvUU9SZlM0SldYV2s1LWl1YmdteDdwcXBYMmZNNVNXYXpVTjMzVlV4bmxJYS01NmVYSHFuYUFUSXeaAQM1MDCiAQMyMTCSECxBRjFRaXBNWHEwTlNrTTVYTE5BNGxqN0sxUldrT2hGVzZidUZmNXlmb00waw" data-attachment-render-hint="2" class="ot-anchor">https://plus.google.com/photos/...</a></i></p>
+</div>
+        
+
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/118289431151433552306_photo.jpg'> Samoht Strebor</h4>
+      <p><cite>2017-10-08 01:15:22 (edited: 2017-10-08 01:15:22)</cite></p>
+        <p>room 1:  The doorstep of madness.  a massive cog works door has been melted through at some point, the evidence of long ago magic applied to it still lingers with a phantom blue flame licking at droplets of still molten metal.   <br /><br />Move -  When you would try to collect the molten metal roll + dex <br />10+ chose 2  <br />7-9 choose 1<br /><br />you avoid losing any equipment to the magical flame<br />you capture a droplet of the flame <br />you are able to use the flame as a single use explosive weapon.<br /><br />room 2 -  rounded tunnels winding you around the floor is made of gears constantly in slow motion,   walking is perilous if you are not paying attention  <br /><br />move - if you would take any action beside careful walking roll + wis<br /><br />on 10+ you are able to take the action without harm<br />7-9  you are caught in the gears.  (Gears are :  d4 damage, messy,)<br /><br />Room 3 -  after winding through the tunnels,   you encounter a large cog that is not turning - a level nearby would lower it into place and cause it to start opening.  you can can see on the other side of the cog a large  room but try as you might no light can pass into the room. <br /><br />move - when you pull the level kronk  - <br />roll 10 + str  <br />10  +  you are able to pull the lever all the way down  opening the way<br />7-9  you are able to pull the lever only halfway down before it becomes jammed.  you can get into the room beyond but have to crawl through whirling gears and cogs to do so.  (gears are d4 damage, messy)<br /><br /><br />Rom 4 - The guardian in its webs.<br />The room is dark, and smells of oil and rust. <br />light sources work once you enter the room. <br /><br />Enjoy fighting this guarding to get its treasure... but beware adventurers - it is rather hard to stop it. <br /><a href="http://codex.dungeon-world.com/monster/5097729533411328" data-embed="CIcDCNACCM8CCAASN2h0dHA6Ly9jb2RleC5kdW5nZW9uLXdvcmxkLmNvbS9tb25zdGVyLzUwOTc3Mjk1MzM0MTEzMjg6eQiF67HM7ysSN2h0dHA6Ly9jb2RleC5kdW5nZW9uLXdvcmxkLmNvbS9tb25zdGVyLzUwOTc3Mjk1MzM0MTEzMjgaN2h0dHA6Ly9jb2RleC5kdW5nZW9uLXdvcmxkLmNvbS9tb25zdGVyLzUwOTc3Mjk1MzM0MTEzMjjy4t2hAa8GCjdodHRwOi8vY29kZXguZHVuZ2Vvbi13b3JsZC5jb20vbW9uc3Rlci81MDk3NzI5NTMzNDExMzI4Ei5odHRwOi8vY29kZXguZHVuZ2Vvbi13b3JsZC5jb20vaW1hZ2VzL2xvZ28ucG5nGg5UaGUgQ29nIFNwaWRlciLFA1RoZSBDbG9ja3dvcmsgZGVmZW5kZXIgaXMgY3JlYXRlZCB3aXRoIGJvdGggbWFkbmVzcyBvZiBlbmdpbmVlcmluZyBhbmQgZ2VuaXVzIG9mIG1hZ2ljLiBJdCBleGlzdHMgb25seSB0byBkZWZlbmQgYSBzaW5nbGUgaXRlbS4gSXQgc3Vydml2ZXMgRXBvY2ggdG8gRXBvY2ggdGhhbmtzIHRvIGl0cyBhYmlsaXR5IHRvIHJlYXNzZW1ibGUgaXRzZWxmIHNvIGxvbmcgYXMgYW55IHNpbmdsZSBnZWFyIGlzIGxlZnQgaW50YWN0LiBBIGdpYW50IHNwaWRlciBtYWRlIG9mIG1peCBvZiBtZXRhbHMgYW5kIHJhcmUgZWxlbWVudHMgaXRzIGJvZHkgaXMgY292ZXJlZCBieSBoYXJkIGlyb24gY2FyYXBhY2UgYW5kIGl0cyBsZWdzIGFyZSBzaGFycCBhcyBhIGRyYWdvbnMgY2xhdy4gSXRzIHNtYWxsIHdlYnMsIG1hZGUgb2YgZmluZSB3aXJlIGFyZSBub3QgdXNlZCBpbiBjb21iYXQgb25seSB0byBhbGVydC4uLsoLsAEI0wII0gII0AIIzwIIABIuaHR0cDovL2NvZGV4LmR1bmdlb24td29ybGQuY29tL2ltYWdlcy9sb2dvLnBuZ8rUzJkBbAouaHR0cDovL2NvZGV4LmR1bmdlb24td29ybGQuY29tL2ltYWdlcy9sb2dvLnBuZxIuaHR0cDovL2NvZGV4LmR1bmdlb24td29ybGQuY29tL2ltYWdlcy9sb2dvLnBuZ5oBAzIzOKIBAzEwMvoRN2h0dHA6Ly9jb2RleC5kdW5nZW9uLXdvcmxkLmNvbS9tb25zdGVyLzUwOTc3Mjk1MzM0MTEzMjg" data-attachment-render-hint="1" class="ot-anchor">http://codex.dungeon-world.com/monster/5097729533411328</a><br /><br /><br /> <br /><br /><br /></p>
+</div>
+        
+
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106559411917886711211_photo.jpg'> Gerke Bouma</h4>
+      <p><cite>2017-10-09 20:18:34 (edited: 2017-10-09 20:18:34)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/118088719859349999400" oid="118088719859349999400">Mark Tygart</a></span> Stop being in my head! That&#39;s almost exactly the thing I had in mind for the final room (tho not the tiny demon thing, but that&#39;s actually a nice touch and a nice comic relief :D)<br /><br /><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/118289431151433552306" oid="118289431151433552306">Samoht Strebor</a></span> I like the vibe of your mechanical trap/puzzles, the cogs and levers help a lot with that steampunk touch we have going. I&#39;ll think on it a bit more as I also want to include some fire element into it (there&#39;s a fire cult involved we recentely established) but that shouldnt be too hard probably!<br /><br />The cog spider totally needs to show up somewhere as I already threw some mechanical spiders at them before... maybe they have a matriarch...?</p>
+</div>
+        
+
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-10-10 13:04:58 (edited: 2017-10-10 13:04:58)</cite></p>
+        <p>I was reading an Eberron book recently in which the Giants of Xen&#39;drik used &quot;Alchemy Beetles&quot; (large, mechanical beetles with a glass sphere of &quot;stuff&quot; that explodes when the beetle is killed) as guardians. These beetles can be more steampunk and the &quot;stuff&quot; in them could be Alchemist&#39;s Fire.</p>
+</div>
+        
+
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106559411917886711211_photo.jpg'> Gerke Bouma</h4>
+      <p><cite>2017-10-10 18:47:21 (edited: 2017-10-10 18:47:21)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/101824580455031797035" oid="101824580455031797035">Brian Holland</a></span> The smaller mechanical spiders i&#39;ve used in our last session actually had glass behinds that explodes with a jolt of electricity when killed. This actually got more response that the spiders themselves initially, so that worked great.<br /><br />I haven&#39;t read the Eborron books but maybe that could serve for further inspiration!</p>
+</div>
+        
+
+<div id='comment z12et1gickibdr43d220jny53reqi5qov04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-10-11 17:28:52 (edited: 2017-10-11 17:28:52)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/106559411917886711211" oid="106559411917886711211">Gerke Bouma</a></span>, If you want to get a single Eberron book I suggest the D&amp;D 4E Eberron Campaign Guide. It has a great, detailed overview of the setting! I have also gotten almost all of the 3.5 Eberron books to help flesh out more of the world, but they&#39;re not at all necessary (although the I found the Alchemy Beetle in the 3.5 book Eberron: Secrets of Xen&#39;drik).</p>
+</div>
+        

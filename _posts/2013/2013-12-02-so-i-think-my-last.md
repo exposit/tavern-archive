@@ -1,0 +1,13 @@
+---
+title: So I think my last
+categories: Magic Items
+tags: ['standard', 'standard', 'istaan', 'banner']
+author: Alex Davis
+link: https://plus.google.com/110369454897257460690/posts/iw1xpE66GsM
+published: 2013-12-02T04:48:57.012Z
+updated: 2013-12-02T04:50:01.000Z
+imagelink: []
+thumblinks: []
+---
+
+So I think my last post was deleted? I can&#39;t find it on the Magic Item section..<br />If there&#39;s anything I&#39;ve been doing wrong as far as posting is concerned, let me know.<br />EDIT: That&#39;s strange, it just showed back up! False, bizarre alarm<br />More topically, here&#39;s a magic item I made with a mechanic I&#39;m not sure about, an automatically granted Defy Danger roll. Interested in any feedback.<br /><br />ISTAAN&#39;S STANDARD<br />This is a ragged banner tied to a spear. Punched through with arrowholes and stained with crusting blood, it was held once by a heroic captain whose unit was betrayed by a jealous superior and slaughtered to a man by a barrage of his own force’s arrows.<br />The banner has been through so many desperate and victorious campaigns and been witness to such a cruel betrayal that something of the battlefield remains inside it. It can be held, or used as a cape or cloak.<br />When the user holds or wears Istaan’s Standard in combat, it flaps and flags as if a full wind was blowing it, regardless of weather conditions. The fabric will gladly and readily drag through mud or blood, but has a peculiar distate for water, blowing away from it and lying as flat against the user’s back as possible when it rains. Arrows fired at the user are miraculously caught and tangled in the frayed fabric, slowing or even stopping them, and those who wear it find its threads catch at their ear and pull their heads round when an unseen threat creeps up on them.<br />Treat this protection as an automatically rolled Defy Danger, modified by the user’s +CHA or +1 (the Standard’s Dexterity Modifier), whichever is higher.<br />Istaan’s Standard abhors dishonesty and treachery in all their forms, and if the user lies or deceives someone, it will bodily attempt to throttle them (although its grip is fairly weak).<br />Once it calms down a little, it will trip them up and do its best to get in their way, giving a -1 ongoing to any physical action. This continues until the user removes the Standard or properly atones, in a way fitting the Banner’s (and the GM’s) judgment.

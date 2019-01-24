@@ -1,0 +1,26 @@
+---
+title: I like that there is
+categories: Custom Moves
+tags: ['someone', 'ritual', 'burning', 'encounter']
+author: Sir Savage
+link: https://plus.google.com/118083625196887510943/posts/3kknWjvQiMo
+published: 2015-08-28T18:05:43.932Z
+updated: 2015-08-28T18:05:43.932Z
+imagelink: []
+thumblinks: []
+---
+
+I like that there is at least some interest in the monk class, I mean it was the option I voted for in Melissa Fisher&#39;s latest poll. That&#39;s because it was a common AD&amp;D alternative class back in the halcyon days of 2.5e. (I think the major martial arts films had some influence here) Anywho, here are some Immolator moves I made. I have promised my players that they can choose their element/theme if they make an immolator (air, earth, fire, water)<br /><br />INNER FIRE - your body generates heat that resist cold. Survive a blizzard in a babydoll. You will never die of hypothermia. This fact grants either you alone a +2 to wilderness survival checks or you and a party of up to 7 a +1.<br />SEARING GLARE - when you calmly intimidate someone while making eye contact with them you may use CON or WIS to parley.<br />BURNING TRUTH - when you spend an hour or so meditating about someone you have a bond with, you may ask and receive a real vision of their past relating to 1 their deepest secret 2 their greatest fear or 3 their one true desire. If you reveal this information to them, either write a negative bond with them or roll + CHA to try and write a positive or cautious bond.<br />SHROUDED IN SMOKE - when you have already hypnotized someone, you may choose at the onset of any later encounter with them to be visible to them or not. If not you must not overtly do something that would normally draw attention to yourself and they will act as though they cannot see you and do not know that you are in their presence.<br />CLOAKED IN FLAME - after you have hypnotized someone, you can easily, by subtle suggestion, convince them of your absence in any given past encounter with them so long as they can make sense of the events of the encounter without your presence. You cannot convince them that events unrelated to your presence did not occur. (e.g. “I wasn’t there, that wasn’t me” and not “that didn’t happen, that didn’t happen.”)<br />HEAT OF PASSION (requires ritual move) - if you ritually prepare your body with a weapon, that weapon cannot harm you for the next day or night. The preparation takes half a day or night. The usual ritual penalties do not apply.<br />FIERY HATRED - as above but you may pick two weapons for four days or four weapons for two. The weapons are still required for the ritual which still takes half a day or night.<br />HEAT RISES - through ritual meditation and concentration you gained the ability to levitate a few inches off the ground with intense focus. This may happen spontaneously when in danger. Take +1 to defend and defy danger DEX so long as you have at least 1 use of your burning brand.<br />HEARTS OF FIRE - It takes the raw materials and a day, but you can make a precious gem of your choice given the opportunity to collect its raw resources and given that you take two disabilities. The gem is worth a 3d8x10 coin.<br />FLAME STRIKE - You may suck the fire out of an opponent by touch. Deal an extra d4 damage when attacking with your burning brand.<br />hot head - you are immune to stun damage from physical attacks.<br />COLD HANDS WARM HEART - take a thief move, not a multi-class move.
+<div id='comment z13lf1yhklniypisk232wflhymzvstmf4'>
+  <h4><img src='{{site.baseurl}}//images/avatars/108967346121876379735_photo.jpg'> Gwyn Haley</h4>
+      <p><cite>2015-08-28 18:10:20 (edited: 2015-08-28 18:13:16)</cite></p>
+        <p>I like with the barbarian moves you kept the same theme of a savage outsider, but allowing an immolator to be of an element other than fire would go totally against the theme of the class. If you were going to allow an element choice, it might be better to just sub the grim world channeler  in place of the immolator.﻿ <br /><br />Other than that these are some pretty interesting moves!</p>
+</div>
+        
+
+<div id='comment z13lf1yhklniypisk232wflhymzvstmf4'>
+  <h4><img src='{{site.baseurl}}//images/avatars/118083625196887510943_photo.jpg'> Sir Savage</h4>
+      <p><cite>2015-08-29 06:50:26 (edited: 2015-08-29 06:50:26)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/108967346121876379735" oid="108967346121876379735">Craig Haley</a></span> Sure. I hear people talk about the &quot;spirit&quot; of dungeon world sometimes, and it&#39;s spirit is half the appeal, the other is its efficient/effective mechanics. Adam and Sage put the usual make/break rules clauses in the back of the book for guys just like me.<br /><br />Going against the theme of the class is something my group and I are okay with. I&#39;m very specifically into 80&#39;s era forgotten realms type fantasy, hence I made moves to try and morph the Immolator into a more general monk type class.<br /><br />So burning brand is a fire themed attack but it could just as easily be flying fists (super fast punches) for air, stone hands (heavy/hard punches/chops) for earth, or quivering palm (pressure point attacks or whatever) for water.</p>
+</div>
+        

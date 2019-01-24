@@ -1,0 +1,21 @@
+---
+title: #WesterosDungeonWorld Last fall, I created
+categories: Base Classes
+tags: ['class', 'classes', 'nofollow', 'campaign']
+author: Jonathan Pearce
+link: https://plus.google.com/+JonathanPearceName/posts/asKiQzwVknn
+published: 2014-04-20T19:58:10.004Z
+updated: 2014-04-20T19:58:10.004Z
+imagelink: ['https://lh3.googleusercontent.com/ayMogAaar_zdSc4cSy6tQndL9sDLyyt1UcwigS7E7cgQJv69wk-Tul_3wWyU_VpCjg=s190']
+thumblinks: ['2014-04-20-westerosdungeonworld-last-fall-i-created_tb.png']
+---
+
+ <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23WesterosDungeonWorld/posts">#WesterosDungeonWorld</a>  Last fall, I created a  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23DungeonWorld/posts">#DungeonWorld</a>  campaign setting inspired by the world George R. R. Martin created for A Song Of Ice And Fire. My campaign setting is set on the continent of Westeros during the protracted struggle between the children of the forest and the First Men, a time when the singers of the songs of the earth and the magic they wielded were both significantly more powerful. All the base classes and compendium classes I wrote for my Westeros campaign are shared for everyone in the Google Drive link below.<br />Creating custom classes for my Westeros campaign took more time and energy than all the rest of the setting! I wrote 3 new classes ( <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Shaper/posts">#Shaper</a> ,  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Shadowbinder/posts">#Shadowbinder</a> , and  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Warg/posts">#Warg</a> ), modified the ranger base class to create the  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Dragonrider/posts">#Dragonrider</a> , and fleshed out Sage LaTorra&#39;s  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Battlemind/posts">#Battlemind</a>  concept to make it into a playable class. I also wrote 3 new compendium classes ( <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23DarkRider/posts">#DarkRider</a> ,  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23Greenseer/posts">#Greenseer</a> , and  <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23AzorAhai/posts">#AzorAhai</a> ).<br />In the months since, my players and I have enjoyed exploring the northern forests of Westeros together. So far, my players have elected to play both the shaper and  the battlemind, modified by a player to become a singer-specific shaman concept who consumes magical pastes to achieve physical prowess. One has also recently discovered he possesses the power of greensight.<br /><br />I feel pretty good about how those two base classes and the compendium class have performed during actual play. If you would like details, we keep an ongoing log of our sessions on my wiki here:<br /><a href="http://jonathan.pearce.name/dungeonworld/index.php?title=Westeros" class="ot-anchor">http://jonathan.pearce.name/dungeonworld/index.php?title=Westeros</a><br /><br />The other classes are, I think, in playable form but have not yet been revised with the insight that comes from playtesting. If anyone plays any of these classes and finds them useful, I would really appreciate any questions or feedback on the moves and ideas.<br /><br />Disclaimer: I think my campaign setting strays pretty far from what G.R.R.M. or his superfans would consider to be canonical, so if that sort of thing bothers you I would advise not reading any of this stuff.
+
+
+Attachment:
+
+<a href='https://drive.google.com/folderview?id=0B3rGIWXLYuP6VjhhUHFlTnBCSmM&usp=sharing'>Westeros</a>
+
+
+Azor Ahai (compendium). 10/25/13. Battlemind. 11/1/13. Dark Rider (compendium). 10/19/13. Dragonrider (human). 12:22 pm. Greenseer (compendium). 10/14/13. Secret! (compendium class). 9/30/13. Shadowbinder.pdf. 12:21 pm. Shaper.pdf. 12:23 pm. Warg.pdf. 12:23 pm. Westeros Classes. 12:34 pm ...

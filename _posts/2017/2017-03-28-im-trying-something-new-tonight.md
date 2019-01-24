@@ -1,0 +1,68 @@
+---
+title: Im trying something new tonight
+categories: Discussion
+tags: ['couple', 'beast', 'trying', 'starter']
+author: Brian Holland
+link: https://plus.google.com/101824580455031797035/posts/dnqUgYHqKdQ
+published: 2017-03-28T01:43:16.491Z
+updated: 2017-03-28T01:44:06.524Z
+imagelink: []
+thumblinks: []
+---
+
+I&#39;m trying something new tonight. We&#39;re taking a break from our campaign because 1 of my players is out of town for a couple weeks, and her character is crucial to what&#39;s going on in the story right now. I have 2 players and we&#39;re going to try a variation of a dungeon starter. I call it a campaign starter (I know, not super original lol), but it&#39;s a list of 10 questions (new fewer, no more) that helps set up an entire story arc with a big bad, some stakes considerations, a couple locations, a couple NPC&#39;s and a possible path to take when the dust settles. No custom moves, no items, no predetermined NPC&#39;s. Just 10 questions and some imagination. Tonight I&#39;m trying &quot;Out of the Frying Pan...&quot;<br /><br />Those of you who have played Skyrim will recognize this as the opening scene of that game with a few minor changes.<br /><br /><b>Out of the frying pan…</b><br /><br />What did each of you do that you are here to be executed with these criminals?<br />Why is this method of execution generally considered a dishonorable death?<br />Who is it that has the authority to execute you?<br />Who is that famous (or infamous) person bound along with you?<br />Why is that person here to be executed along with the rest of you?<br />What type of legendary beast interrupted the execution just before you were to die?<br />What was foretold would happen when this beast resurfaced after so many centuries?<br />Who was it that freed you from your bonds?<br />What type of structure or area was nearby that you were lead to for safety?<br />Where can you go to learn more about this beast?<br /><br />My goal is to create several of these to be able to draw one from a deck or roll a die to determine which one will be used.<br /><br />What are your thoughts?
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/118088719859349999400_photo.jpg'> Mark Tygart</h4>
+      <p><cite>2017-03-28 02:27:03 (edited: 2017-03-28 02:27:03)</cite></p>
+        <p>Godspeed!, that&#39;s Dungeon World</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/100555929558184515857_photo.jpg'> Manu Saxena</h4>
+      <p><cite>2017-03-28 06:58:20 (edited: 2017-03-28 06:58:20)</cite></p>
+        <p>Can&#39;t wait to hear more</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-03-28 11:51:30 (edited: 2017-03-28 12:41:22)</cite></p>
+        <p>I just want to say a couple quick words before I head to work, then I&#39;ll try to post a summary on my lunch break.<br /><br /><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/118088719859349999400" oid="118088719859349999400">Mark Tygart</a></span>, I love Dungeon Starters, and have used your Mountain of Fire for three different groups! I just wanted to try a different approach that still had some direction like a starter, but left more room for the players to build their world.<br /><br />The idea came about when one of my players wanted to GM, but &quot;didn&#39;t know what questions to ask&quot;. I gave him The Whisperway (another of Mark&#39;s dungeon starters)  and he liked it but asked &quot;Do I have to use all of this, or can I just use it for the questions?&quot; Also, I love Skyrim, and always wanted to play that opening scene at the table, but didn&#39;t want to make it too similar to Skyrim. So rather than building a dungeon starter with Helgen (where the executions took place) and a Dragon and the person who assassinated the Emperor, I decided to just ask a bunch of questions that were inspired by those aspects of that scene, and that&#39;s where Out of the frying pan... came from. Neither of my players last night had played Skyrim, so I got something VERY different.<br /><br />I chose 10 questions because that&#39;s a nice round number, but of course each question listed lead to many more.<br /><br />Teaser: What type of Legendary Beast interrupted the executions? A Tarrasque... which both excites me and fills me with dread LOL</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/117938653641565340771_photo.jpg'> Logan Howard</h4>
+      <p><cite>2017-03-28 12:59:22 (edited: 2017-03-28 12:59:22)</cite></p>
+        <p>This is so cool! I can&#39;t wait to hear more. I love how clearly the Skyrim scenes pop into my head and yet with a different answer, it could lead to something completely different.</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-03-28 15:31:36 (edited: 2017-03-28 15:31:36)</cite></p>
+        <p>Here&#39;s a link to the <b>Out of the frying pan...</b> session notes:<br /><br /><a href="https://docs.google.com/document/d/1RZ7FbSV0JpBS7gpUAxLqExQt4_tx8A3G7sbPB5Bmx_A/edit?usp=sharing" data-embed="COYCCOwCCNACCM8CCAASdGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMVJaN0ZiU1YwSnBCUzdncFVBeExxRXhRdDRfdHg4QTNHN3NiUEI1Qm14X0EvZWRpdD91c3A9c2hhcmluZyZfZXNjYXBlZF9mcmFnbWVudF89Ot8BCIeNpayxKxJgaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xUlo3RmJTVjBKcEJTN2dwVUF4THFFeFF0NF90eDhBM0c3c2JQQjVCbXhfQS9lZGl0P3VzcD1zaGFyaW5nGnRodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzFSWjdGYlNWMEpwQlM3Z3BVQXhMcUV4UXQ0X3R4OEEzRzdzYlBCNUJteF9BL2VkaXQ_dXNwPXNoYXJpbmcmX2VzY2FwZWRfZnJhZ21lbnRfPZru2p4BlgwKYGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMVJaN0ZiU1YwSnBCUzdncFVBeExxRXhRdDRfdHg4QTNHN3NiUEI1Qm14X0EvZWRpdD91c3A9c2hhcmluZxLAAWh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9xQnZsRC1vTUJWQjNEQm1KNXdqMnJBcWVIV3FDSkxObnpmYkhVb2dNRVhRN3RtTXFObC1SMVY2eE9SYzFqUzR4ZUlVRXJwRVAwN24xc040dWY3Zi1iZms2M3E2TW5pQV9fVDYtaGhfX2VaaWNMNktWcW5FX3RSM2g3UlIwTHVLRWw5NWZBSWZjeVNjOUQxb0gyV1B6ckhQZD1zMTYwMBoeT3V0IG9mIHRoZSBmcnlpbmcgcGFuLi4uIE5PVEVTIrgCSSB3b27igJl0IGxpc3QgYWxsIG9mIHRoZSBxdWVzdGlvbnMgdGhhdCBicmFuY2hlZCBvZmYgb2YgdGhlc2UgbWFpbiBxdWVzdGlvbnMsIEnigJlsbCBqdXN0IHN1bW1hcml6ZSB0aGUgd2hvbGUuIEFsc28sIGFuIGFuc3dlciBtYXkgaGF2ZSBiZWVuIGFsdGVyZWQgc2xpZ2h0bHkgb3IgY2hhbmdlZCBjb21wbGV0ZWx5IGR1ZSB0byBhIGxhdGVyIHF1ZXN0aW9uLCBzbyB0aGUgYW5zd2VycyBJ4oCZdmUgcHJlc2VudGVkIGFyZSB0aGUg4oCcZmluYWzigJ0gYW5zd2VycyBhZnRlciBhbHRlcmF0aW9uLiBJ4oCZbSBhbHNvIG5vdCBnb2luZyB0byBsLi4ukgRsaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xUlo3RmJTVjBKcEJTN2dwVUF4THFFeFF0NF90eDhBM0c3c2JQQjVCbXhfQS9wcmV2aWV3P3VzcD1lbWJlZF9nb29nbGVwbHVz2gQ-aHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20vZG9jcy9kb2N1bWVudHMvaW1hZ2VzL2tpeC1mYXZpY29uNi5pY2_KC-sECNMCCNICCNACCM8CCAASwAFodHRwczovL2xoNC5nb29nbGV1c2VyY29udGVudC5jb20vcUJ2bEQtb01CVkIzREJtSjV3ajJyQXFlSFdxQ0pMTm56ZmJIVW9nTUVYUTd0bU1xTmwtUjFWNnhPUmMxalM0eGVJVUVycEVQMDduMXNONHVmN2YtYmZrNjNxNk1uaUFfX1Q2LWhoX19lWmljTDZLVnFuRV90UjNoN1JSMEx1S0VsOTVmQUlmY3lTYzlEMW9IMldQenJIUGQ9czE2MDDK1MyZAZMDCsABaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3FCdmxELW9NQlZCM0RCbUo1d2oyckFxZUhXcUNKTE5uemZiSFVvZ01FWFE3dG1NcU5sLVIxVjZ4T1JjMWpTNHhlSVVFcnBFUDA3bjFzTjR1ZjdmLWJmazYzcTZNbmlBX19UNi1oaF9fZVppY0w2S1ZxbkVfdFIzaDdSUjBMdUtFbDk1ZkFJZmN5U2M5RDFvSDJXUHpySFBkPXMxNjAwEsABaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3FCdmxELW9NQlZCM0RCbUo1d2oyckFxZUhXcUNKTE5uemZiSFVvZ01FWFE3dG1NcU5sLVIxVjZ4T1JjMWpTNHhlSVVFcnBFUDA3bjFzTjR1ZjdmLWJmazYzcTZNbmlBX19UNi1oaF9fZVppY0w2S1ZxbkVfdFIzaDdSUjBMdUtFbDk1ZkFJZmN5U2M5RDFvSDJXUHpySFBkPXMxNjAwmgEDODAwogEEMTAzNfoRdGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMVJaN0ZiU1YwSnBCUzdncFVBeExxRXhRdDRfdHg4QTNHN3NiUEI1Qm14X0EvZWRpdD91c3A9c2hhcmluZyZfZXNjYXBlZF9mcmFnbWVudF89" data-attachment-render-hint="1" class="ot-anchor">https://docs.google.com/document/d/1RZ7FbSV0JpBS7gpUAxLqExQt4_tx8A3G7sbPB5Bmx_A/edit?usp=sharing</a><br /><br />It was a really fun session, and totally unlike Skyrim, which the questions were based on. I&#39;ll work on the Fronts tonight and post them as well for you to see.</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-03-29 01:48:02 (edited: 2017-03-29 01:48:02)</cite></p>
+        <p>Here&#39;s a link to the Fronts for <b>Out of the frying pan...</b><br /><br />I feel Fronts is the aspect of Dungeon World that I can improve most at. If anyone has any ideas for improving these please don&#39;t hesitate to let e know!<br /><br /><a href="https://docs.google.com/document/d/1xaXkbXwj2Znd10_67GLXvWkBAdYULTpk3Mafwhixs9A/edit?usp=sharing" data-embed="COYCCOwCCNACCM8CCAASdGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMXhhWGtiWHdqMlpuZDEwXzY3R0xYdldrQkFkWVVMVHBrM01hZndoaXhzOUEvZWRpdD91c3A9c2hhcmluZyZfZXNjYXBlZF9mcmFnbWVudF89Ot8BCI6B-b2xKxJgaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xeGFYa2JYd2oyWm5kMTBfNjdHTFh2V2tCQWRZVUxUcGszTWFmd2hpeHM5QS9lZGl0P3VzcD1zaGFyaW5nGnRodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzF4YVhrYlh3ajJabmQxMF82N0dMWHZXa0JBZFlVTFRwazNNYWZ3aGl4czlBL2VkaXQ_dXNwPXNoYXJpbmcmX2VzY2FwZWRfZnJhZ21lbnRfPZru2p4BiQwKYGh0dHBzOi8vZG9jcy5nb29nbGUuY29tL2RvY3VtZW50L2QvMXhhWGtiWHdqMlpuZDEwXzY3R0xYdldrQkFkWVVMVHBrM01hZndoaXhzOUEvZWRpdD91c3A9c2hhcmluZxLAAWh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9KMk03UG5tUllqTXUzc2FXOUNxYzc0dlVjSVZ5V2tPTEhmVXQ0cXVsOU5ONHFtdnVSVE5lYy1aRmhFVHFLQU41V0RTcHpDNjFrQkhSVnVWMUtlM3lhSG9ySXVWUFB5Ymxxa2F5eTdxYzhrcUo0eVk1VXBPM2VNaVdUV2RXLUlBYmpFNTNzZFhYd0swZ2xiOS1aZFpWZF95ZD1zMTYwMBoeT3V0IG9mIHRoZSBmcnlpbmcgcGFuLi4uRlJPTlRTIqsCSSB1c2UgYSBtaXggb2YgRnJvbnRzIGZyb20gRHVuZ2VvbiBXb3JsZCBhbmQgVGhyZWF0cyBmcm9tIEFwb2NhbHlwc2UgV29ybGQuIEFmdGVyIFNlc3Npb24gMCBJIHdvbmRlci4uLiBXaGF0IHdhcyB0aGUgTWFnZSBXYXIgYWJvdXQ_IEhvdyBkaWQgdGhlIER3YXJ2ZXMgYmV0cmF5IEtlc3NlbD8gSXMgaXQgS2luZyBIYWx3ZW4sIG9yIGhpcyBhZHZpc29yIFNpbG1hbmRpbCB0aGF0IGhhcyBkZWNyZWVkIHRoYXQgRHdhcnZlcyBhcmUgdG8gYmUgZXhlY3V0ZWQ_IERpZCBMb3JuYSBnaXZlIERldmFuIHRoZSByaW5nLCBvciAuLi6SBGxodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzF4YVhrYlh3ajJabmQxMF82N0dMWHZXa0JBZFlVTFRwazNNYWZ3aGl4czlBL3ByZXZpZXc_dXNwPWVtYmVkX2dvb2dsZXBsdXPaBD5odHRwczovL3NzbC5nc3RhdGljLmNvbS9kb2NzL2RvY3VtZW50cy9pbWFnZXMva2l4LWZhdmljb242Lmljb8oL6wQI0wII0gII0AIIzwIIABLAAWh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9KMk03UG5tUllqTXUzc2FXOUNxYzc0dlVjSVZ5V2tPTEhmVXQ0cXVsOU5ONHFtdnVSVE5lYy1aRmhFVHFLQU41V0RTcHpDNjFrQkhSVnVWMUtlM3lhSG9ySXVWUFB5Ymxxa2F5eTdxYzhrcUo0eVk1VXBPM2VNaVdUV2RXLUlBYmpFNTNzZFhYd0swZ2xiOS1aZFpWZF95ZD1zMTYwMMrUzJkBkwMKwAFodHRwczovL2xoNC5nb29nbGV1c2VyY29udGVudC5jb20vSjJNN1BubVJZak11M3NhVzlDcWM3NHZVY0lWeVdrT0xIZlV0NHF1bDlOTjRxbXZ1UlROZWMtWkZoRVRxS0FONVdEU3B6QzYxa0JIUlZ1VjFLZTN5YUhvckl1VlBQeWJscWtheXk3cWM4a3FKNHlZNVVwTzNlTWlXVFdkVy1JQWJqRTUzc2RYWHdLMGdsYjktWmRaVmRfeWQ9czE2MDASwAFodHRwczovL2xoNC5nb29nbGV1c2VyY29udGVudC5jb20vSjJNN1BubVJZak11M3NhVzlDcWM3NHZVY0lWeVdrT0xIZlV0NHF1bDlOTjRxbXZ1UlROZWMtWkZoRVRxS0FONVdEU3B6QzYxa0JIUlZ1VjFLZTN5YUhvckl1VlBQeWJscWtheXk3cWM4a3FKNHlZNVVwTzNlTWlXVFdkVy1JQWJqRTUzc2RYWHdLMGdsYjktWmRaVmRfeWQ9czE2MDCaAQM4MDCiAQQxMDM1-hF0aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xeGFYa2JYd2oyWm5kMTBfNjdHTFh2V2tCQWRZVUxUcGszTWFmd2hpeHM5QS9lZGl0P3VzcD1zaGFyaW5nJl9lc2NhcGVkX2ZyYWdtZW50Xz0" data-attachment-render-hint="1" class="ot-anchor">https://docs.google.com/document/d/1xaXkbXwj2Znd10_67GLXvWkBAdYULTpk3Mafwhixs9A/edit?usp=sharing</a></p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101845816313183575681_photo.jpg'> steven stewart</h4>
+      <p><cite>2017-04-12 06:33:31 (edited: 2017-04-12 06:33:31)</cite></p>
+        <p>I like just the questions. That is how I start dungeon world games. I am working on several. If you write specific enough ones then you get some of your ideas in the game, but still have play to find out what happens. I would also probably add in some impressions to draw on. I also usually come with a list of names to use. A few monsters aren&#39;t bad to have on hand, just as long as you don&#39;t force them into the game. That is what I see sometimes with dungeon starters, which are awesome, but they can be too much like a list of what to include in the game without the player input. I just use questions and impressions going back to the chapter on first sessions.</p>
+</div>
+        
+
+<div id='comment z13nxnmocxqmtnyqv04cjn4jgpbidbjiptw0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-04-12 13:06:08 (edited: 2017-04-12 13:06:08)</cite></p>
+        <p>I agree, I like to use leading questions, but since I know the general location because of those questions, I like to have some creatures in mind for that area.<br /><br />Also, the Fronts I linked are not &quot;These are fronts I would use with these questions&quot;, they are &quot;These are the Fronts I created for the campaign that came out of the session presented in the Notes link&quot;. Dave and Sean are two of my best players and I wanted to showcase their responses and the Fronts that came about because of those responses.<br /><br />I ran the questions past my son and we created a completely different world, which obviously lead to completely different Fronts.</p>
+</div>
+        

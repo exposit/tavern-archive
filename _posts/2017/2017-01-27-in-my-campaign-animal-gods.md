@@ -1,0 +1,13 @@
+---
+title: In my campaign, animal gods
+categories: Custom Moves
+tags: ['campaign', 'animal', 'taken', 'somewhat']
+author: Markus Öhman
+link: https://plus.google.com/113334241988345399658/posts/NuWcS9P6Z5f
+published: 2017-01-27T21:36:19.702Z
+updated: 2017-01-27T21:38:07.519Z
+imagelink: []
+thumblinks: []
+---
+
+In my campaign, animal gods have taken a somewhat central role. Here are some moves related to gods we have mentioned in the fiction so far. (On mobile, so I&#39;m not sure how to bold words),<br /><br />When you are marked by a god, describe how it changes you. While marked, other gods are deaf to your prayers.<br /><br />When praying at a shrine of Bodjak, the Toad God, you are marked and gain 1 hold. Roll +Cha. On 10+, choose 2. On 7-9, choose 1. <br />* Bodjak smiles upon you. Gain 1 additional hold.<br />* You do not need to sacrifice a ration.<br />* Heal 2 extra HP the next time you Make Camp.<br />You may spend your hold when rolling +Con to treat a 7-9 as a 10+.<br />On a miss, you are still marked and get 1 hold, but Bodjak finds you wanting. If you kill one of his Chosen People, lose all hold. When you have no hold left, you are no longer marked.<br /><br />When praying at a shrine of Wulo, the All-Seeing Two-Serpent, you are marked by Them. Choose one.<br />* When you Discern Realities, one question is not limited to the list.<br />* When poisoned, you have +1 to your Last Breath.<br />When it has come to pass, you are no longer marked and you no longer carry Their blessing.<br /><br />When you or your foe dedicate a melee to Haul, the Pig God of War and Slaughter, roll +Cha. On a success, She favours you - you deal +2 damage. You are also marked until the next time you Make Camp. On 7-9, choose one:<br />* You will also suffer +2 damage.<br />* You do not mark XP on a miss.<br />When you have defeated your foe, Her attention turns elsewhere. <br />On a miss, the God of War and Slaughter favours your foe.<br /><br />When praying at a shrine of The Chalk-Crowned Stag, Lord of Travel and Language, roll +Cha and you are marked. On 10+, choose 2. On 7-9, choose 1.<br />* Gain 2 Load.<br />* The next time you encounter a script of an ancient tongue, you know of it but are only somewhat sure of what it says.<br />*  Name a location and draw it on the map. The GM will tell you something interesting about it.<br />When you return to civilisation, you are no longer marked and you no longer carry Its blessing.<br />

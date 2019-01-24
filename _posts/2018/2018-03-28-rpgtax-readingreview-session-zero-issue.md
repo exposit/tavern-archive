@@ -1,0 +1,21 @@
+---
+title: #rpgtax #readingreview Session Zero Issue
+categories: Adventures
+tags: ['affiliate_id=330920', 'adventure', 'eternal', 'class']
+author: Sophia Brandt
+link: https://plus.google.com/+SophiaBrandt/posts/VAG7nBGMUvZ
+published: 2018-03-28T06:37:06.310Z
+updated: 2018-03-28T06:37:06.310Z
+imagelink: ['http://www.drivethrurpg.com/images/11364/235188.png']
+thumblinks: ['2018-03-28-rpgtax-readingreview-session-zero-issue_tb.png']
+---
+
+<a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23rpgtax/posts">#rpgtax</a> <a rel="nofollow" class="ot-hashtag" href="https://plus.google.com/s/%23readingreview/posts">#readingreview</a><br /><br /><b>Session Zero Issue 6 - The Eternal</b> is a 36-pages zine for Dungeon World. USD $2.99. <br />[^1]  <i>(affiliate links)</i><br /><br />&gt; <i>The Eternal</i> - which uses a deck of playing cards to randomize setup - is a mystery adventure akin to the old <i>“Against the Cult of the Reptile God”</i> module. You come to a village, see some strange<br />stuff, discover <i>why</i> strange stuff is happening, and deal with it. <br /><br />In true DW fashion, the adventure offers prompts to come up with a shared background and hooks. <br /><br />I like the idea of using cards to create the adventure. The cards influence the Big Bad, <b>The Eternal</b>, some other players, and the village. That makes the adventure re-usable - in theory. In practice, the idea behind the adventure is the same. So you&#39;ll know the secret behind the strange happenings of the Dwarven village. And that will limit its appeal to play it again.<br /><br />The author did a fabulous job of using the <i>Countdown Die</i> mechanism from ICRPG [^2] with tailored GM Moves to drive the action and provide clues to the mystery. <br /><br />Locations and background information offer enough material for several sessions. Obviously, the author put some work into coming up with custom moves, items and stats for <i>The Eternal</i>, and adventure locations. <br /><br />You can also link it with other adventures from the <b>Session Zero</b> line. (See [^3].) <br /><br />Layout and typesetting do a good job of not getting in the way. I glimpsed some decent black and white images. Overall, look and feel strike me as functional but nothing to write home. <br />No digital bookmarks but that&#39;s not necessary with 36 pages.<br /><br />I&#39;m itching to convert <i>The Eternal</i> to an old-school leaning RPG like <i>The Black Hack</i>. [^4]<br /><br />I liked SZ06 a lot and it sounds like it will be fun to play.<br /><br />I encourage you to take a look at Brian Holland&#39;s patreon campaign for the <b>Session Zero</b> zine. [^5]<br /><br />[^1]: <a href="http://www.drivethrurpg.com/product/235188/Session-Zero-Issue-6--The-Eternal?affiliate_id=330920" class="ot-anchor">http://www.drivethrurpg.com/product/235188/Session-Zero-Issue-6--The-Eternal?affiliate_id=330920</a><br />[^2]: <a href="http://www.drivethrurpg.com/product/212262/INDEX-CARD-RPG-Core-Set?affiliate_id=330920" class="ot-anchor">http://www.drivethrurpg.com/product/212262/INDEX-CARD-RPG-Core-Set?affiliate_id=330920</a><br />[^3]: <a href="http://www.drivethrurpg.com/browse.php?keywords=session+zero&amp;manufacturers_id=11364&amp;?affiliate_id=330920" class="ot-anchor">http://www.drivethrurpg.com/browse.php?keywords=session+zero&amp;manufacturers_id=11364&amp;?affiliate_id=330920</a><br />[^4]: <a href="http://www.drivethrurpg.com/product/178359/The-Black-Hack?affiliate_id=330920" class="ot-anchor">http://www.drivethrurpg.com/product/178359/The-Black-Hack?affiliate_id=330920</a><br />[^5]: <a href="https://www.patreon.com/BrianHolland" class="ot-anchor">https://www.patreon.com/BrianHolland</a><br /> 
+
+
+Attachment:
+
+<a href='http://www.drivethrurpg.com/product/235188/Session-Zero-Issue-6--The-Eternal?affiliate_id=330920'>Session Zero Issue 6 - The Eternal</a>
+
+
+Session Zero Issue 6 - The Eternal - An adventure for Dungeon World, plus a 5-page spread about linking ALL 6 issues of Session Zero into a campaig

@@ -1,0 +1,47 @@
+---
+title: Gatecrashers So, as mentioned below,
+categories: Actual Play
+tags: ['kajri', 'draven', 'setting', 'threshton']
+author: Clarity Hanna (Cerisa)
+link: https://plus.google.com/+ColterHanna/posts/MKJ6SWyiwUW
+published: 2013-04-14T06:50:00.704Z
+updated: 2013-04-14T06:56:35.000Z
+imagelink: []
+thumblinks: []
+---
+
+<b>Gatecrashers</b><br />So, as mentioned below, my friends encouraged me to finish up a playtestable version of my Dungeon World hack, and when I finished it, we proceeded to spend the majority of the next three days playing it. This was the second group I have run Dungeon World (or Adventure World, as I have dubbed my hack) for a group, and the experience successfully re-affirmed that I have found the perfect role-playing game for me to build upon.<br /><br />First, the world. The game took place in my own campaign setting of Invisible. The main gimmick of the setting is that people no longer believe in magic the way they used to, and all the strange and mystical forces in the world exist just out of sight of everybody but the adventurers. The specific setting in which the bulk of our story take&#39;s place is Threshton, a rather large port city run by a merchant&#39;s guild. <br /><br />Next, the characters: All three are playing new classes, which you can look at here: <a href="https://plus.google.com/u/0/103545995066222515975/posts/Ko5adE6eNuD" class="ot-anchor">https://plus.google.com/u/0/103545995066222515975/posts/Ko5adE6eNuD</a><br /><b>Kajri, the Witch</b> is a young (18 years old) girl born into a very large and very rich family of merchants and other powerful people. When her (very distant) parents discovered her strange abilities, they shipped her off to study with a master of such things, Gregory Darius, while also attending a prestigious college. Kajri and Darius&#39;s relationship has recently been strained as of late, as she insists on studying darker and darker magics and has stopped attending school. She now keeps an apartment in the lower district with Mak (and Draven next door).<br /><br /><b>Mak, the Hero</b> is also 18, and similarly comes from a moneyed family. Or at least, what should be. When he was only 5 his mother (the father was never present) was disgraced from her family name, and she now lives in a little place in Threshton, entirely supported by the money Mak makes fighting in the boxing ring under Chuck&#39;s tavern. Mak&#39;s artifact is a nondescript amulet he found lying on the ground. He discovered that he could tap into its power to give him strength, but recently, when he does so, it has also had the physical side effect of giving him demonic-looking features.<br /><br /><b>Draven, the Veteran</b> is not by any means 18 years old. He&#39;s a retiree from a mercenary company that was moderately well-known for dealing with weird and very dangerous forces. His tale is a long one, and should be reserved for another day, but for now what matters is that he has been hired by Kajri&#39;s family as a bodyguard for the young Witch, because apparently their idea of solving the problem of a delinquent prodigy is to just send someone along to make sure nobody gets too hurt.<br /><br />All of this arose naturally from the process of making characters. This game is amazing.<br /><br />Using the one plot element I had prepared for the entire session, I started things in the action: &quot;Kajri, how did this cultists manage to strap you to this table?&quot; &quot;Mak, how did you figure out where Kajri is? Where are we, anyway?&quot; &quot;Draven, what is standing in between you and the one you are payed to keep safe?&quot; It turns that Kajri was in a shady alley looking for a fence to buy black market spell components when she was grabbed, but her kidnappers happened to pass by Mak and Draven just as they were exiting from one of Mak&#39;s boxing matches. The location is the basement of an unwitting nobleman Standing between them were some bulky-looking cultists holding long daggers and itching for a fight. Some highlights from the fight: Kajri attempts to use magic to push the man with the sacrificial dagger away and ends up pushing herself backwards, too, shattering the table into pieces. Mak goes demonic-looking and tosses some of the cultists into each other with little effort. Kajri uses a telekinesis spell to impale the leader with a shard of table, which seems to break some sort of mind-control spell on the rest of them. Draven remembers a similar time this happened, and shudders when he recalls the beast the ritual summoned: a creature made entirely of smoke and shadow, larger than the tallest tree and ever-hungry (but never satisfied). Well, surprise surprise, but as Kajri pulls the impaled dagger out of her stomach, it transforms into a smaller version of one of these creatures. They flee quickly, but realize that if they don&#39;t stop it, all of Threshton will be consumed. Kajri: &quot;Draven, how do we stop this.&quot; &quot;It&#39;ll be dangerous. For you in particular.&quot; &quot;I can do it.&quot; &quot;We need fire. A lot of it. Overload it with what it wants.&quot; Kajri, leaning on the shoulders of her friends, takes a deep breath and prepares a spell that she <i>definitely</i> didn&#39;t learn from Darius.<br /><br />At this point, we flash forward a couple of minutes. The house is in flames and our heroes are rapidly absconding before they become suspects for a rather dramatic case of arson. Retreating to their apartments, they fall asleep, not realizing that this is just the beginning...<br /><br />Wow, so this is already really long, and it&#39;s only the first of twelve in-game days, so I think I&#39;ll wrap up here and continue in a later post.<br /><br />Some behind the scenes notes: as mentioned, the only preparation for this entire game was the general notes about the campaign setting (Threshton didn&#39;t even exist), and the idea of &quot;someone about to be sacrificed by cultists&quot;. The combat was using an earlier draft (not the one present from the link above) with no health system at all, and while I enjoyed the reminder that wounds have to have a fictional effect to do anything, I found that working without any sort of HP or Harm system made it too easy for me to go easy on the players. This issue would be expounded over the next two sections, leading to the second draft that you can see now. Beyond those issues, however, everything ran amazingly smoothly. The dramatic tension felt very fit for a television show, and the game flowed naturally.<br /><br />More adventures of the Gatecrashers (why is it called that? well, you&#39;ll just have to wait and see) coming soon!
+<div id='comment z12hy3uw4rbpgzint23xfn4rzyrfut5ty'>
+  <h4><img src='{{site.baseurl}}//images/avatars/111529858416331232174_photo.jpg'> Roane Beard</h4>
+      <p><cite>2013-04-14 07:03:02 (edited: 2013-04-14 07:03:02)</cite></p>
+        <p>Sounds like a blast. </p>
+</div>
+        
+
+<div id='comment z12hy3uw4rbpgzint23xfn4rzyrfut5ty'>
+  <h4><img src='{{site.baseurl}}//images/avatars/103545995066222515975_photo.jpg'> Clarity Hanna (Cerisa)</h4>
+      <p><cite>2013-04-14 07:05:59 (edited: 2013-04-14 07:05:59)</cite></p>
+        <p>It really was. I can&#39;t believe I&#39;ve been playing games where we go hours without anything other than a series of planned, &quot;balanced&quot; combat encounters for all my life.</p>
+</div>
+        
+
+<div id='comment z12hy3uw4rbpgzint23xfn4rzyrfut5ty'>
+  <h4><img src='{{site.baseurl}}//images/avatars/111529858416331232174_photo.jpg'> Roane Beard</h4>
+      <p><cite>2013-04-14 07:07:51 (edited: 2013-04-14 07:07:51)</cite></p>
+        <p>Yeah, I&#39;ve had a similar reaction. I&#39;ve played other systems that didn&#39;t privilege balance so much, but never one that facilitated character driven storytelling and general badassery as DW. </p>
+</div>
+        
+
+<div id='comment z12hy3uw4rbpgzint23xfn4rzyrfut5ty'>
+  <h4><img src='{{site.baseurl}}//images/avatars/103545995066222515975_photo.jpg'> Clarity Hanna (Cerisa)</h4>
+      <p><cite>2013-04-14 07:11:53 (edited: 2013-04-14 07:11:53)</cite></p>
+        <p>Oh, I forgot to mention the fact that my group included TWO artists, so a lot of art was produced over the course of playing. Most of it has yet to be updated, but check out the portraits of Kajri and Mak on our Obsidian Portal page:<br /><a href="http://www.obsidianportal.com/campaigns/invisible/characters/kajri" class="ot-anchor">http://www.obsidianportal.com/campaigns/invisible/characters/kajri</a><br /><a href="http://www.obsidianportal.com/campaigns/invisible/characters/mak" class="ot-anchor">http://www.obsidianportal.com/campaigns/invisible/characters/mak</a></p>
+</div>
+        
+
+<div id='comment z12hy3uw4rbpgzint23xfn4rzyrfut5ty'>
+  <h4><img src='{{site.baseurl}}//images/avatars/109000970532467033120_photo.jpg'> Ed Gibbs</h4>
+      <p><cite>2013-04-14 12:18:18 (edited: 2013-04-14 12:18:18)</cite></p>
+        <p>I LOVE this! Sometimes I get a little annoyed that this community seems like 95% coming up with hacks and rules questions, and 5% actually talking about experiences PLAYING the game! So I think this is awesome. Keep writing!</p>
+</div>
+        
