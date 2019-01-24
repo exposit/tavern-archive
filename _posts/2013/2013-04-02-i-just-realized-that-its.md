@@ -1,0 +1,33 @@
+---
+title: I just realized that its
+categories: Actual Play
+tags: ['talked', '110347546870177044171', 'weeks', 'extra']
+author: Dylan Boates
+link: https://plus.google.com/+DylanBoates/posts/Wf3gvV92Awm
+published: 2013-04-02T23:42:11.278Z
+updated: 2013-04-02T23:42:11.278Z
+imagelink: []
+thumblinks: []
+---
+
+I just realized that it&#39;s game day tomorrow and I haven&#39;t talked about my <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/110347546870177044171" oid="110347546870177044171">Dungeon World</a></span> game in weeks! This is extra crazy because last week was THE END OF DUNGEON WORLD!<br /><br />So, since I last posted, the group arrived at a fortress on the edge of the dwarven lands and realized that dwarven bureaucracy is horrible and they don&#39;t have passports. (Non-dwarves weren&#39;t allowed entrance.)  Instead they decided they&#39;d sneak into the dwarven undercity through some goblin tunnels.<br /><br />After attempting to negotiate passage with the goblins they hypocritically decided that the fact that the goblins ate people meant they couldn&#39;t be negotiated with and decided to set the goblins on fire instead. (Gretta is a vampire now and has been eating people for months. Hycorax is the party&#39;s negotiator by virtue of not having a negative Charisma bonus, despite the fact that his disdain for civilized authority figures and his willingness to solve &quot;problems&quot; by turning into a fire elemental mean that his negotiations never end well.)<br /><br />After nearly being killed by a seemingly endless swarm of goblins (we all enjoy how even at level 9, the PCs have had some TERRIFYINGLY close calls with goblins and zombies, which are typically kind of shitty opponents) they made their rendez vous with a dwarven cleric who was loyal to Gretta and the rest of the displaced nobility. (Oh yeah, Gretta is an exiled princess.)<br /><br />Gretta agreed to help her people overthrow the Shadow cult that had taken over and restore the old tyranical nobility and descended into the Shadow Realm, from which no LIVING thing could return, to kill Venith (the goddess of shadow) herself.<br /><br />Gretta lost her signature hammer on the way, so she strangled Venith and decapitated her with her bare hands.<br /><br />She returned to the world as a living dwarf, having fulfilled her service to Hood (the god of death, who she made a deal with when Venith tried to kill her).<br /><br />Her bloodstained hands are her new signature weapon.<br /><br />Then they headed into the heart of the world to confront the Worm God Kryos in his prison and prevent him from escaping/continuing to poison the earth.<br /><br />They ran into some magmen who were running from something and had a tense standoff due to their unwillingness to talk to outsiders. However, Hycorax&#39;s fire elemental based negotiation style finally paid off since, as creatures of elemental fire, they don&#39;t consider a fire elemental to be an outsider.<br /><br />The magmen warned them about a cave full of chaos cultists who became tainted by the Worm God and were transformed into Chaos Spawn.<br /><br />Chaos Spawn are horrible.<br /><br />They beat the Chaos Spawn, but lost much armour and equipment to their chaos touch as well as picking up some horrible debilities.<br /><br />Then they confronted the Worm God, in his prison suspended over a Mount Doom style volcano pit, who claimed that he was only poisoning the earth because he was trapped within it, and what the hell do you expect to happen when you trap a maimed god of corruption, upheaval and change inside the Earth Goddess&#39; heart? Hycorax jumped into the volcano pit to commune with his Goddess, who agreed that letting the Worm God go would be an awesome thing as far as she was concerned, even if it may suck as far as the humans who LIVED on the earth were concerned.<br /><br />Hycorax was not convinced, but the Worm God offered to make Jonah the Ranger (the only member of the group who wasn&#39;t under some sort of divine influence and wasn&#39;t possibly some sort of demi-god at the time) into his avatar so that Jonah could determine the exact shape of the Worm God&#39;s influence on the world.<br /><br />Hycorax and Gretta were still not convinced, but Jonah sure as hell was.<br /><br />The Worm God was freed and the party traveled the continent righting the doings of the Worm God that they thought were wrong, and violently overthrowing the established order of things, mostly for kicks. (They&#39;re ALL chaotic or evil, by the way.)<br /><br />The end.<br /><br />Tomorrow: Lotus Blossom&#39;s Bridal Path.
+<div id='comment z12efb3ppnalwrdpl04chfyibpaqy3dj1zg0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/117415966179711277938_photo.jpg'> Sage LaTorra</h4>
+      <p><cite>2013-04-02 23:47:48 (edited: 2013-04-02 23:47:48)</cite></p>
+        <p>&quot;we all enjoy how even at level 9, the PCs have had some TERRIFYINGLY close calls with goblins and zombies, which are typically kind of shitty opponents&quot; YES!</p>
+</div>
+        
+
+<div id='comment z12efb3ppnalwrdpl04chfyibpaqy3dj1zg0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/104977908596381674248_photo.jpg'> Dylan Boates</h4>
+      <p><cite>2013-04-03 00:37:53 (edited: 2013-04-03 00:37:53)</cite></p>
+        <p>I think the terrifying close call with the goblins boiled down to their numbers making &quot;Hack and Slash&quot; a pretty useless option.<br /><br />I mean, sure, they could trivially kill one goblin at a time, but there were HUNDREDS of them.<br /><br />To make things even better, Jonah blew a roll right around the point when they were deciding that they needed to figure out how to escape instead of how to beat the goblins, and he got dragged down into the crowd.<br /><br />Then there was a mad scramble to rescue Jonah before he got dragged off to be goblin lunch and to find a way out of the tunnel before they got buried under a heap of goblins.<br /><br />I don&#39;t even think I dealt any damage. It was all &quot;Okay, now you&#39;re buried up to your hips in goblins and one&#39;s hanging off your face. What do you do?&quot;</p>
+</div>
+        
+
+<div id='comment z12efb3ppnalwrdpl04chfyibpaqy3dj1zg0k'>
+  <h4><img src='{{site.baseurl}}//images/avatars/107973609226591141233_photo.jpg'> Matt Stuart</h4>
+      <p><cite>2013-04-03 05:02:50 (edited: 2013-04-03 05:02:50)</cite></p>
+        <p>Lol&#39;d @ &#39;Hycorax is the party&#39;s negotiator by virtue of not having a negative Charisma bonus&#39;</p>
+</div>
+        

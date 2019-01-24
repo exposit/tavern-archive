@@ -1,0 +1,26 @@
+---
+title: I used +Brian Hollands one-roll
+categories: Discussion
+tags: ['death', 'death', 'class', 'people']
+author: Mark Weis
+link: https://plus.google.com/102532126904257134510/posts/at8QzHcmKy8
+published: 2017-06-11T03:46:06.578Z
+updated: 2017-06-11T03:46:06.578Z
+imagelink: []
+thumblinks: []
+---
+
+I used <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/101824580455031797035" oid="101824580455031797035">Brian Holland</a></span>&#39;s one-roll generators (all of them) to create a super quick one-shot for a 1-on-1 play, and it worked out great! I feel like the monster generator could be a little better (maybe if it had something to determine group size, as well as adding more chances to add more features). I wrote out all of the results as i would (and did) tell them to my players.<br /><br />You find yourself in an underground cavern wherein reside a race of bat people, called Khordri, whose... excrement produces the finest clay in the world. Orcs have set up a trading post, exchanging various goods and services for the clay which can be made into fine pottery or even into armor. However, the only source of water leading into the cave- a waterfall which cascades into a pool, has recently started making people sick.<br /><br />Around the same time as the water started going bad, a cave was discovered behind the waterfall. It was sealed with an iron gate that has resisted any attempt to open it. Markings on the gate identify it as some kind of lair, and the gate itself is fashioned out of a foreign material. Its position and construction clearly signify that it was built to keep something from getting through it, as well as to prevent people from knowing about it. What nobody has seen yet is the rotting skeletons of what appears to be an army lying inside.<br /><br />These skeletons are only a small insight into what lies within the cave, for, there are no signs of wounds on them. It&#39;s almost as if they just... died. In addidion, there are imprints (to be discovered later, of course) of large feet/claws along the cave floor. They seem to me of a beast so ancient or mysterious, that they are not in any bestiary or history book. Ever. By any race. (A full write up at the end).<br /><br />The lone PC has found himself in the company of an Orc named Dagmar. This chaotic singer works for the trading post in the tavern/inn and serves as the entertainment. He originally came with a message for Archibald, the PC: Help solve the town&#39;s problem and you will be set free, thief. After all, Archibald <br />was the one who discovered the cave... after running off with 300 Coin worth of pottery. Dagmar is regretting receiving the position, as this little brat is extremely aggravating. He&#39;d better get paid double for this. Also, Dagmar isn&#39;t really aware of it yet, but he knows the identity of the beast in the cave.<br /><br />The Stalking Death<br />Solitary, Large, Terrifying, Devious<br />Wings, The Reek of Death<br />Instinct: To Kill<br />================<br />16 HP, 3 armor<br />Bite (d10+1 close, reach)<br />================<br />Imagine a really, REALLY big bat. Now make it undead. Now make its bones extra white and extra visible. <br />And on top of its massive fangs, give it the ability to bring you closer to death than the average sword swing- just by being in the same room. That&#39;s pretty accurate.<br />-Bring them close to death with its presence alone<br />-Cause even minor wounds to fester and rot<br /><br />The beast ended up being a mutated Khordri which was sealed off to prevent it from attacking the village.
+<div id='comment z12bxdzqxqubdxmae04chz5aiqqjgr0b0bo'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101076298485951808085_photo.jpg'> Andrea Parducci</h4>
+      <p><cite>2017-06-11 09:39:56 (edited: 2017-06-11 09:39:56)</cite></p>
+        <p><a href="https://m.youtube.com/watch?v=7f0elHVq9l4" data-attachment-render-hint="2" class="ot-anchor">https://m.youtube.com/watch?v=7f0elHVq9l4</a></p>
+</div>
+        
+
+<div id='comment z12bxdzqxqubdxmae04chz5aiqqjgr0b0bo'>
+  <h4><img src='{{site.baseurl}}//images/avatars/101824580455031797035_photo.jpg'> Brian Holland</h4>
+      <p><cite>2017-06-11 12:45:25 (edited: 2017-06-11 12:45:25)</cite></p>
+        <p>Thanks for the shout out <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/102532126904257134510" oid="102532126904257134510">Mark Weis</a></span>! It&#39;s really fun to hear that others are engaging with content I&#39;ve put out! I completely agree that the Monster generator is lacking. I worke on that one on a flight home from Saint Louis and fully intended to go back in and tweak it but never got around to it (because I thought I was going to be the only one using it lol).<br /><br />Your post couldn&#39;t have come at a better time though. I was flipping through my books last night doing some &quot;creature research&quot; for my next issue of Session Zero and found some stuff in DCC that I thought would be really cool for the monster generator. I&#39;m tied up with SZ4 and an ancillary Session Zero project right now, but all of my generators will soon get tweaks and &quot;monsters&quot; will get a pretty big overhaul.</p>
+</div>
+        
