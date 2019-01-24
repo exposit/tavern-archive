@@ -1,0 +1,54 @@
+---
+title: Lets say a paladin lost
+categories: Discussion
+tags: ['paladin', 'sword', 'obviously', 'problem']
+author: Aniket Schneider
+link: https://plus.google.com/+AniketSchneider/posts/G41FpsLxWjw
+published: 2015-09-26T06:04:11.226Z
+updated: 2015-09-26T06:04:11.226Z
+imagelink: []
+thumblinks: []
+---
+
+Let&#39;s say a paladin lost his sword hand.  Obviously this is a problem for him, so he dedicates himself to the quest of restoring it somehow (phrased mechanically as &quot;Discover the truth of how to restore missing limbs).<br /><br />Problem is, the quest is pretty orthogonal to the party&#39;s goals, so the quest isn&#39;t really getting advanced.  Fictionally, how would you handle a paladin that decides to abandon a quest?  What about one who is taking advantage of his boons for all sorts of things that have nothing to do with his quest?<br /><br />Of course the player has a say in how paladin quests work in-fiction too, but I&#39;d like to have some ideas going into that conversation.<br /><br />Bonus question: as a DM, how much would you push back on selfish and/or awkwardly phrased paladin quests such as this?  How important is it that the goal of the quest fit nicely into the given prompts?
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/115855678651779869594_photo.jpg'> Joseph F. Russo</h4>
+      <p><cite>2015-09-26 06:41:50 (edited: 2015-09-26 06:41:50)</cite></p>
+        <p>Not knowing what your main quest is, I&#39;d probably just pepper the current quest with hints about someone who could heal the character. I think it&#39;s fine to have a palidin have a quest to restore his hand (I&#39;m watching Full Metal Alchemist right now, and that&#39;s basically the plot of the main characters).<br /><br />I would urge you to be flexible as a GM. If the player has dedicated themselves to that a quest, it&#39;s something that&#39;s likely important to them to have happen. Unless you can come up with a good reason why not, I&quot;d just work it in.<br /><br />Besides, there may be a Golden Opportunity when he finds out what he&#39;ll have to do to restore it (kill an innocent, for example).</p>
+</div>
+        
+
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/102920419618104544086_photo.jpg'> Steve Ellis</h4>
+      <p><cite>2015-09-26 08:26:32 (edited: 2015-09-26 08:26:32)</cite></p>
+        <p>Heh time for  a moral lesson-  give opportunities to advance his quest- but each one comes at the cost of the greater good- he&#39;ll be weakening the party if he&#39;s away on his own seeking  the Lost Sage,, they dont have time to detour to the Shrine of Healing as the Dark lords might reach the McGuffin before him,  or he has to choose between using the Healing Water as a component later, or saving a dying hero now.  If he makes the right choice (the greater good) then even though it doesnt appear that he&#39;s advancing his quest,  the Gods will restore his hand as a reward for his faith. If he always chooses his priority over the greater good, then maybe its time to question if he&#39;s still a Paladin.</p>
+</div>
+        
+
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/117175341165637840811_photo.jpg'> James Etheridge</h4>
+      <p><cite>2015-09-26 08:41:32 (edited: 2015-09-26 08:55:27)</cite></p>
+        <p>As Joseph said, it&#39;s partly your responsibility to be a fan and provide opportunities to move the quest forward. Of course, you should also communicate with the Paladin&#39;s player when they dedicate themselves to a quest in the first place, to make sure that what they want to do and the boons they pick are inline with the game you all want to play.<br /><br />That said, here are my answers to your other questions, if for whatever reason the best practices really can&#39;t be applied.<br /><br />If a Paladin chooses to abandon their quest without completing it, I think that decision should carry some gravitas, like a Fighter choosing to temporarily abandon their Signature Weapon. That said, <i>also</i> like the Fighter, they&#39;re already giving something up in the form of their boons, so I would be pretty light on additional penalties, if any happen at all. Best advice: take into account the situation, and where this particular Paladin draws their strength from (a goddess, natural spirits, transcendental meditation, whatever), and ask them what the cost might be for deliberately turning aside from an oath they&#39;ve sworn. <br /><br />Maybe the answer is &quot;none,&quot; especially if they&#39;re abandoning one quest for a more important one; maybe they need to show additional dedication by taking an additional vow on their new quest; maybe their deity does not tolerate oathbreakers, and the brand of a traitor appears on their forehead until they atone (if they even can). Whatever. Point is, there&#39;s no general answer aside from &quot;whatever makes sense for the character and creates a good table experience.&quot;<br /><br />As for the Paladin &quot;taking advantage of&quot; their boons, I submit that this is problematic language. They are not <i>taking advantage of</i> their boons, they are <i>using</i> their boons--and using class abilities is what they&#39;re supposed to be doing. That&#39;s what they&#39;re they&#39;re for! Provided that they are meeting the conditions of the move, as always, which for this move I would interpret as actively pursuing their quest (as opposed to making a fire-and-forget dedication ritual and never moving forward on it, and again it&#39;s partly your job to give them <i>opportunities</i> to move forward on it), and also abiding by the vows you gave them.<br /><br />There is of course a line between &quot;being awesome&quot; and &quot;being a cheeky p&#39;taq,&quot; but if they&#39;re doing the latter the solution is always the same regardless of the details: talk to them about it, politely but frankly.<br /><br />Bonus answer part one: depends on the Paladin. Sure, the two alignments are Lawful and Good, but a Lawful Paladin can be evil and a Good Paladin can be subversive; either can be selfish, and they&#39;re more like guidelines anyway. What if they&#39;re a Paladin of the Goddess of Beauty, who holds aesthetic perfection as the highest ideal? Quests of self-improvement would fit right in for this character. So long as they&#39;re being true to their own character&#39;s portrayal (which is their wheelhouse, recall), and not screwing with the table experience, I think that&#39;s awesome.<br /><br />Bonus answer part two: I don&#39;t care about awkward wording, or fitting into the prompts at all really. So long as it fits within the spirit of the move, like you can look at it and say &quot;hell yeah, that&#39;s a quest!&quot; I&#39;m fine with it. Consider that there&#39;s no prompt for rescuing someone and I think you&#39;ll see what I mean.<br /><br />Double bonus suggestion: there was a really cool idea in the original 16 Hit Point Dragon thread. One of the characters (the Fighter, I think) lost an arm, and the way she dealt with it was by devoting herself to one of the gods and taking the Quest move. Any time she was working in the name of her deity, one of her chosen boons was &quot;a mark of divine authority,&quot; said mark being a glowing arm to replace the one she&#39;d lost. She was literally serving as the god&#39;s right hand; awesome, right?<br /><br />Of course, this was a choice the player made after rejecting another option (one of the conditions for the Ritual to regenerate the arm was that they needed living flesh, and she didn&#39;t want to put that price on anyone). So keep that in mind, and continue to offer clues on how to regrow their arm when you can even if it&#39;s not their current Quest; they&#39;ve already shown a desire to get their arm back, and you should help with that if you can.</p>
+</div>
+        
+
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/105865506865728214454_photo.jpg'> Diego Minuti</h4>
+      <p><cite>2015-09-26 12:15:29 (edited: 2015-09-26 12:15:29)</cite></p>
+        <p>The move says &quot;when you consacrate yourself thru purification and meditation&quot;.<br />My GM opinion is that restoring oneself shouldn&#39;t be considered a &quot;mission&quot;. . Do you want bonuses for trying to heal yourself? Courtesy of whom?<br />Of course, table&#39;s opinion could differ.<br /><br />If the group chooses for it to be a valid quest  it&#39;s not to the GM to decide if something is selfish. It&#39;s your JOB to intersect the paths in a funny way.<br />If you can&#39;t hinkt of anything, ask them: guys, the paladin is going south, the others are going west. What can we do?&quot;</p>
+</div>
+        
+
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/106425812138775225518_photo.jpg'> Aniket Schneider</h4>
+      <p><cite>2015-09-26 16:05:55 (edited: 2015-09-26 16:05:55)</cite></p>
+        <p><span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a class="proflink" href="https://plus.google.com/117175341165637840811" oid="117175341165637840811">James Etheridge</a></span> your comment clarified something for me. I think the vague unease I&#39;m feeling with this whole thing is because I don&#39;t trust the player to not be a munchkin. Thinking a little more deeply about it, I don&#39;t think that mistrust is justified, so I&#39;m going to try and focus on making the quest interesting instead of deciding whether it&#39;s &quot;appropriate&quot;.</p>
+</div>
+        
+
+<div id='comment z12fjb4xutu2wnzmt22kj5rpjr3ettfrq04'>
+  <h4><img src='{{site.baseurl}}//images/avatars/109712674026118738548_photo.jpg'> S Holiday</h4>
+      <p><cite>2015-09-26 17:33:49 (edited: 2015-09-26 17:33:49)</cite></p>
+        <p>The paladin&#39;s quest shouldn&#39;t fundamentally be orthogonal to the main campaign. With side quests especially it&#39;s important to &quot;play to find out what happens.&quot; So, don&#39;t have a pre-set determination of how limbs can be restored (or even, if they can be restored). Encourage your paladin to do things on his/her own which will advance the quest, and also pepper your world with opportunities for the paladin. For instance, maybe the shopkeep at the weapon&#39;s store has a mechanical arm. If other players aren&#39;t interested in the paladin&#39;s storyline, then this would be a good time to re-visit the use of bonds. Bonds are really awesome if the party and GM are actually using them, but it can also be one of the harder things to get use to because it&#39;s not really found in a lot of other systems.</p>
+</div>
+        

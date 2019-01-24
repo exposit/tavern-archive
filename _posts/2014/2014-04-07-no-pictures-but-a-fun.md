@@ -1,0 +1,13 @@
+---
+title: No pictures, but a fun
+categories: Actual Play
+tags: ['harpoon', 'serpent', 'artifacts', 'critical']
+author: John Payne
+link: https://plus.google.com/+JohnPayneSycarion/posts/hz4uKatMJZR
+published: 2014-04-07T02:18:36.257Z
+updated: 2014-04-07T02:18:36.257Z
+imagelink: []
+thumblinks: []
+---
+
+No pictures, but a fun sesstion last night.<br /><br />We (the chracters) are searching for artifacts. Those artifacts are identifying by runes in the Giant&#39;s Language. To search for these artifacts, we find ourselves in a place of endless doors. Usually, a session begins with opening a door. We get our bearings, encounter something to talk to and generally attempt to figure out what we can gain.<br /><br />This time, we find ourselves in the hold of a ship. There&#39;s lots of creaking and shouting from the deck above. So far, so good, right?<br /><br />I do not remember the exact sequence of events, but simply attempting to gather our bearings and discern where we were this time generated multiple critical failures.<br /><br />Multiple.<br /><br />How many times can we roll a 2?<br /><br />A sea serpent is attacking a ship in the middle of a tremendous storm. Fire eels ooze on deck. Many of us are clamoring to go back through the door that brought us to this cursed place, especially when finding out that the sea serpent is attacking the ship because of us.<br /><br />Our brave Dwarven Fighter decides that he is going to rip a harpoon gun off its mooring, climb the serpent, and fire at point blank range. Rolling a critical success, he actually rips the harpoon gun off its moorings and it still works. The rest of his plan did not quite work out as planned.<br /><br />I decided that my Cleric should actually contribute whereupon a critical fail in my attack with a harpoon gun. I decide to attack fire eels and leave the heavy lifting to my little dwarven friend.<br /><br />To cut to the chase, the ship had 1 hit point left. Most of the sailors on the boat were swept overboard. Our mage spent most of the battle being seasick. One character died, but made a bargain with Death to return with a different profession. The cursed shapeshifter alternately changed into a werewolf (the moon), a ghost (dead creature), and a host of other things. The captain and crew were grateful for our assistance.<br /><br />My dwarven friend even got to keep his harpoon gun. The captain, however, said that he could spare no harpoons. Undeterred, he strips down to his skivvies and dives overboard. He retrieves a tooth and a scale from the slain sea serpent for the two slayers as well as nine harpoons.<br /><br />Thanks to my bag of holding, we will soon be dungeon crawling with a harpoon gun. I haven&#39;t laughed so hard in a very long time. :)
